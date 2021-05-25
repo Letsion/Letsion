@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Letsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Letsion&show_icons=true&theme=radical)](https://github.com/Letsion/github-readme-stats)
+[![Letsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Letsion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Letsion/Letsion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
