@@ -2,6 +2,8 @@
 #### Languages
 <img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
 <img align="left" alt="CSharp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="CSharp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+
 
 <br />
 
