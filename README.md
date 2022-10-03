@@ -16,7 +16,9 @@
 
 #### Backend
 <img align="left" alt="Node.js" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+
 <br />
+
 ### Databases
 <img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
